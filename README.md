@@ -16,6 +16,6 @@ Apa yang dapat Anda temukan di web ini:
 
 Project ini di buat oleh :
 - Eki
-- Dafy
+- Artha
 
 Kunjungi situs web kami di https://xitkj3.vercel.app/ untuk mendapatkan informasi lebih lanjut. Kami sangat menghargai apabila Anda ingin menggunakan proyek ini, harap sertakan kredit kami dalam penggunaan Anda. Terima kasih! 🙏
